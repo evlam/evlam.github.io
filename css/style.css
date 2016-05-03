@@ -544,6 +544,24 @@ ul.social-network li a {
 .social-network li:hover .fa-instagram {
   color: #D2B48C; 
 }
+
+.contacts-center {
+  padding-top: 20px;
+  text-align: center;
+  font-size: 25px;
+  height: 30px;
+  float: left;
+  width: 25%;
+}
+
+.contacts-center a {
+  color: #d0d0d0;
+}
+
+.contacts-center a:hover {
+    color: #1BBD36;
+}
+
 .copyright {
 	margin-top:30px;
 }
